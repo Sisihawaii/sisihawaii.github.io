@@ -1,0 +1,134 @@
+about:
+  p1: >-
+    我是一名经济学家，始终被一个核心问题所驱动：天气和气候如何塑造我们赖以生存的系统——电力网络、粮食供应、
+    以及政策选择？我的研究聚焦于气候、能源和农业的交汇处，运用计量经济学和机器学习将高分辨率气象数据
+    转化为可操作的预测和可信的因果估计。
+  p2: >-
+    我的职业道路并非一帆风顺。最初在荷兰的壳牌和嘉能可从事大宗商品交易和风险分析，在那里我学会了如何实时
+    应对市场、数据和不确定性。这段经历引导我走向更深层的问题——最终来到夏威夷大学攻读博士学位，在那里
+    我研究了温度如何驱动电力需求，以及卫星气象数据如何预测全球农作物产量。我的博士论文荣获了TK Jayaraman
+    家族最佳博士论文奖。
+  p3: >-
+    如今，我在公共政策和创业之间平衡前行。作为夏威夷州税务局的高级经济学家，我评估清洁能源税收抵免的财政影响——
+    这项工作直接影响立法决策。在研究方面，我联合创办了AE4cast，将网格级农作物产量预测引入农业市场。
+    我同时在夏威夷大学马诺阿分校教授计量经济学、环境经济学和统计学，与新一代经济学人分享我对数据驱动思维的热情。
+  p4: >-
+    生于中国，求学于荷兰和美国，现居檀香山——我在不同文化和大陆之间构建了自己的职业生涯，
+    并将这种全球视野融入我所做的一切。
+
+publications:
+  - status: published
+    title: '"Using Temperature Sensitivity to Estimate Shiftable Electricity Demand"'
+    authors: "Roberts, M. J., Zhang, S., Yuan, E., Jones, J., and Fripp, M."
+    venue: "<em>iScience</em>, 25(9), 104940, 2022"
+    description: >-
+      将精细尺度气象数据与美国31个地区的逐时电力消费数据相结合，利用条件外生的气象变异作为自然实验，
+      估算温度敏感型电力需求，并模拟负荷转移对气候变化下电力系统投资的影响。
+  - status: working
+    title: '"Using Weather-Based Crop Yield Forecasts to Estimate Commodity Demand"'
+    authors: "Roberts, M. J., and Zhang, S."
+    venue: "工作论文, 2024"
+    description: >-
+      将每日农作物产量预测与期货价格相关联以估算玉米需求，初步结果表明需求弹性低于以往研究。
+      构建预测模型和数据管道，将基于气象的产量预测与大宗商品市场结果相连接。
+  - status: working
+    title: '"Process-Based versus Statistical Crop Models: Divergent Climate Change Projections for U.S. Corn and Soybean Yields"'
+    authors: "Zhang, S."
+    venue: "工作论文, 2026"
+    description: >-
+      比较广泛使用的SIMPLE过程模型与灵活的统计模型在气候变化情景下的预测。研究发现统计模型拟合更优，
+      两种方法在变暖预测上产生分歧，部分原因是过程模型未能充分捕捉极端高温效应——这意味着仅依赖过程模型的
+      政策制定者可能低估气候变化对农业的损害。
+  - status: working
+    title: '"Comparison of Reanalysis Weather Data for Hourly Electricity Demand Forecast"'
+    authors: "Zhang, S."
+    venue: "工作论文, 2026"
+    description: >-
+      比较NARR、MERRA2和ERA5-Land再分析气象数据集用于电力需求预测的表现——这一方法选择对下游模型
+      准确性有显著影响。为应用能源和气候研究中的数据集选择提供指导。
+
+dissertation:
+  prize: "TK Jayaraman家族最佳博士论文奖"
+  chapters:
+    - "Using Temperature Sensitivity to Estimate Shiftable Electricity Demand"
+    - "Comparing Process-Based SIMPLE Model and Statistical Model with Climate Implications for U.S. Corn Belt States"
+    - "Comparison of Reanalysis Weather Datasets (NARR, MERRA2, ERA5-Land) for Hourly Electricity Demand Forecasting in the Continental U.S."
+
+conferences:
+  - title: "摩根大通大宗商品研究中心研讨会"
+    detail: "，2024年8月 —「Using Weather-Based Crop Yield Forecasts to Estimate Commodity Demand」（与 M. J. Roberts 合作）"
+  - title: "西方经济学会国际会议 (WEAI)"
+    detail: "，2021"
+  - title: "美国能源经济学会 (USAEE)"
+    detail: "，2021"
+
+experience:
+  - title: "经济学家 VI（高级经济学家）"
+    period: "2025年1月 – 至今"
+    org: "夏威夷州税务局"
+    location: "檀香山"
+    bullets:
+      - "运用高级计量经济学和统计方法分析大规模行政税务微观数据，主导可再生能源税收抵免（RETITC）等能源税收政策的财政影响评估。"
+      - "整合纳税申报微观数据、人口统计数据集和宏观经济时间序列，构建财政影响评估和收入预测分析框架。"
+      - "撰写能源税收抵免政策技术报告，涵盖收入预测和不确定性分析。"
+      - "向立法者和高级官员传达复杂的计量经济学模型输出和政策建议。"
+  - title: "联合创始人兼CEO"
+    period: "2023年 – 至今"
+    org: "AE4cast"
+    location: ""
+    bullets:
+      - "构建基于卫星气象数据、面板计量经济学和机器学习的网格级农作物产量预测平台。"
+      - "设计端到端数据管道，处理大规模网格化地理空间数据集；实施交叉验证框架。"
+      - "将模型结果转化为面向外部利益相关者的可操作决策支持工具。"
+  - title: "研究助理"
+    period: "2018年8月 – 2023年8月"
+    org: "夏威夷大学马诺阿分校经济学系"
+    location: "檀香山"
+    bullets:
+      - "开展电力需求预测研究，成果发表于 <em>iScience</em>（2022年）。"
+      - "设计因果推断框架，从大规模观测数据中识别处理效应。"
+      - "利用精细网格化气候数据和机器学习方法构建全球农作物产量预测模型。"
+      - "运用卡尔曼滤波和马尔可夫转换时间序列模型构建夏威夷经济指数。"
+  - title: "研究分析师（谷物）"
+    period: "2015年10月 – 2017年7月"
+    org: "嘉能可谷物公司 (Glencore Grain B.V.)"
+    location: "鹿特丹，荷兰"
+    bullets:
+      - "构建基于回归和机器学习的农业产量模型，支持大宗商品交易决策。"
+      - "通过Tableau仪表板传达分析结果；自动化报告工作流程。"
+  - title: "风险控制分析师"
+    period: "2012年8月 – 2015年4月"
+    org: "壳牌贸易公司 (Shell Trading B.V.)"
+    location: "鹿特丹，荷兰"
+    bullets:
+      - "分析能源衍生品投资组合的每日交易盈亏、持仓和市场风险敞口。"
+      - "监控定量风险指标；开发内部工具提升每日风险报告的准确性和效率。"
+
+education:
+  - degree: "经济学博士"
+    school: "夏威夷大学马诺阿分校"
+    year: "2024年7月"
+    highlight: "TK Jayaraman家族最佳博士论文奖"
+    note: "研究方向：计量经济学、能源经济学、环境经济学、农业经济学"
+    featured: true
+  - degree: "经济学硕士"
+    school: "夏威夷大学马诺阿分校"
+    year: "2019年5月"
+  - degree: "风险管理理学硕士"
+    school: "阿姆斯特丹Duisenberg金融学院"
+    year: "2012年8月"
+  - degree: "经济学理学学士"
+    school: "蒂尔堡大学 (Tilburg University)"
+    year: "2010年8月"
+    highlight: "优等荣誉 (Cum laude)，排名前5%"
+
+teaching:
+  title: "兼职讲师"
+  period: "2020年1月 – 至今"
+  org: "夏威夷大学马诺阿分校"
+  courses:
+    - "计量经济学"
+    - "环境经济学"
+    - "统计学"
+    - "微观经济学"
+  description: "面向不同背景的学生教授定量方法；指导学生进行应用计量经济学的研究项目。"

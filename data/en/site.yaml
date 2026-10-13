@@ -1,0 +1,146 @@
+about:
+  p1: >-
+    I'm an economist driven by a simple question: how do weather and climate shape the systems
+    we depend on — our energy grids, our food supply, our policy choices? My research sits at the
+    intersection of climate, energy, and agriculture, where I use econometrics and machine learning
+    to turn high-resolution weather data into actionable forecasts and credible causal estimates.
+  p2: >-
+    My path has been anything but linear. I started in commodity trading and risk analysis at Shell
+    and Glencore in the Netherlands, where I learned to think in real time about markets, data, and
+    uncertainty. That experience pulled me toward deeper questions — which led me to a PhD at the
+    University of Hawaii, where I studied how temperature drives electricity demand and how
+    satellite weather data can predict crop yields around the world. My dissertation won the
+    TK Jayaraman & Family Prize for Best PhD Dissertation.
+  p3: >-
+    Today I split my time between public policy and entrepreneurship. As a Senior Economist at the
+    Hawaii Department of Taxation, I evaluate the fiscal impact of clean energy tax credits —
+    work that directly shapes legislation. On the research side, I co-founded AE4cast to bring
+    grid-level crop yield forecasting to agricultural markets. I also teach econometrics,
+    environmental economics, and statistics at UH Manoa, where I get to share my enthusiasm for
+    data-driven thinking with the next generation of economists.
+  p4: >-
+    Born in China, trained in the Netherlands and the US, and now based in Honolulu — I've built my career
+    across cultures and continents, and I bring that global perspective to everything I do.
+
+publications:
+  - status: published
+    title: '"Using Temperature Sensitivity to Estimate Shiftable Electricity Demand"'
+    authors: "Roberts, M. J., Zhang, S., Yuan, E., Jones, J., and Fripp, M."
+    venue: "<em>iScience</em>, 25(9), 104940, 2022"
+    description: >-
+      Pairs fine-scale weather data with hourly electricity consumption across 31 US regions;
+      uses conditionally exogenous weather variation as a natural experiment to estimate
+      temperature-sensitive demand and simulate load-shifting implications for power system
+      investment under climate change.
+  - status: working
+    title: '"Using Weather-Based Crop Yield Forecasts to Estimate Commodity Demand"'
+    authors: "Roberts, M. J., and Zhang, S."
+    venue: "Working paper, 2024"
+    description: >-
+      Links daily crop yield forecasts to futures prices to estimate corn demand, with preliminary
+      results suggesting more inelastic demand than previous studies. Constructs forecasting models
+      and data pipelines connecting weather-based yield predictions to commodity market outcomes.
+  - status: working
+    title: '"Process-Based versus Statistical Crop Models: Divergent Climate Change Projections for U.S. Corn and Soybean Yields"'
+    authors: "Zhang, S."
+    venue: "Working paper, 2026"
+    description: >-
+      Compares the widely used SIMPLE process-based crop model with flexible statistical models
+      under climate change scenarios. Finds that statistical models fit better and the two approaches
+      produce divergent warming projections, in part because the process-based model does not fully
+      capture extreme heat effects — implying that policymakers relying on process-based models
+      alone may underestimate climate damages to agriculture.
+  - status: working
+    title: '"Comparison of Reanalysis Weather Data for Hourly Electricity Demand Forecast"'
+    authors: "Zhang, S."
+    venue: "Working paper, 2026"
+    description: >-
+      Compares NARR, MERRA2, and ERA5-Land reanalysis weather datasets for electricity demand
+      forecasting — a methodological choice that significantly affects downstream model accuracy.
+      Provides guidance on dataset selection for applied energy and climate research.
+
+dissertation:
+  prize: "TK Jayaraman & Family Prize for Best PhD Dissertation"
+  chapters:
+    - "Using Temperature Sensitivity to Estimate Shiftable Electricity Demand"
+    - "Comparing Process-Based SIMPLE Model and Statistical Model with Climate Implications for U.S. Corn Belt States"
+    - "Comparison of Reanalysis Weather Datasets (NARR, MERRA2, ERA5-Land) for Hourly Electricity Demand Forecasting in the Continental U.S."
+
+conferences:
+  - title: "J.P. Morgan Center for Commodities Symposium"
+    detail: ', August 2024 — "Using Weather-Based Crop Yield Forecasts to Estimate Commodity Demand" (with M. J. Roberts)'
+  - title: "Western Economic Association International (WEAI)"
+    detail: ", 2021"
+  - title: "U.S. Association for Energy Economics (USAEE)"
+    detail: ", 2021"
+
+experience:
+  - title: "Economist VI (Senior Economist)"
+    period: "Jan 2025 – Present"
+    org: "State of Hawaii, Department of Taxation"
+    location: "Honolulu, HI"
+    bullets:
+      - "Apply advanced econometric and statistical methods to large-scale administrative tax microdata, leading fiscal impact assessments of energy tax policies including the RETITC."
+      - "Integrate tax return microdata, demographic datasets, and macroeconomic time series for fiscal impact assessment and revenue forecasting."
+      - "Author technical reports on energy tax credit policy, covering revenue forecasting and uncertainty analysis."
+      - "Communicate complex econometric outputs and policy recommendations to legislators and senior officials."
+  - title: "Co-founder & CEO"
+    period: "2023 – Present"
+    org: "AE4cast"
+    location: ""
+    bullets:
+      - "Building a grid-level agricultural yield forecasting platform using satellite weather data, panel econometrics, and machine learning."
+      - "Designed end-to-end data pipelines ingesting large gridded geospatial datasets; implemented cross-validation frameworks."
+      - "Translated model results into actionable decision-support tools for external stakeholders."
+  - title: "Research Assistant"
+    period: "Aug 2018 – Aug 2023"
+    org: "University of Hawaii at Manoa, Department of Economics"
+    location: "Honolulu, HI"
+    bullets:
+      - "Conducted electricity demand forecasting research; findings published in <em>iScience</em> (2022)."
+      - "Designed causal inference frameworks to isolate treatment effects in large observational datasets."
+      - "Built global crop yield forecast models using fine-grained gridded climate data and ML methods."
+      - "Constructed the Hawaii Economic Index using Kalman filter and Markov-switching time-series models."
+  - title: "Research Analyst (Grain)"
+    period: "Oct 2015 – Jul 2017"
+    org: "Glencore Grain B.V."
+    location: "Rotterdam, Netherlands"
+    bullets:
+      - "Built regression-based and ML agricultural yield models for commodity trading decisions."
+      - "Communicated analytical results via Tableau dashboards; automated reporting workflows."
+  - title: "Risk Control Analyst"
+    period: "Aug 2012 – Apr 2015"
+    org: "Shell Trading B.V."
+    location: "Rotterdam, Netherlands"
+    bullets:
+      - "Analyzed daily trading P&L, open positions, and market exposure across energy derivatives portfolios."
+      - "Monitored quantitative risk metrics; developed internal tools for daily risk reporting."
+
+education:
+  - degree: "PhD, Economics"
+    school: "University of Hawaii at Manoa"
+    year: "July 2024"
+    highlight: "TK Jayaraman & Family Prize for Best PhD Dissertation"
+    note: "Fields: Econometrics, Energy, Environmental, Agricultural Economics"
+    featured: true
+  - degree: "MA, Economics"
+    school: "University of Hawaii at Manoa"
+    year: "May 2019"
+  - degree: "MSc, Risk Management"
+    school: "Duisenberg School of Finance, Amsterdam"
+    year: "August 2012"
+  - degree: "BSc, Economics"
+    school: "Tilburg University"
+    year: "August 2010"
+    highlight: "Cum laude, top 5%; completed dual degree in 2 years"
+
+teaching:
+  title: "Part-time Lecturer"
+  period: "Jan 2020 – Present"
+  org: "University of Hawaii at Manoa"
+  courses:
+    - "Econometrics"
+    - "Environmental Economics"
+    - "Statistics"
+    - "Microeconomics"
+  description: "Teaching quantitative methods to mixed audiences; mentoring student research projects in applied econometrics."
