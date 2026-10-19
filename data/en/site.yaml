@@ -1,26 +1,17 @@
 about:
   p1: >-
-    I'm an economist driven by a simple question: how do weather and climate shape the systems
-    we depend on — our energy grids, our food supply, our policy choices? My research sits at the
-    intersection of climate, energy, and agriculture, where I use econometrics and machine learning
+    I study how weather and climate shape the systems we depend on — energy grids, food supply
+    chains, and the policies that govern them. My research uses econometrics and machine learning
     to turn high-resolution weather data into actionable forecasts and credible causal estimates.
-  p2: >-
-    My path has been anything but linear. I started in commodity trading and risk analysis at Shell
-    and Glencore in the Netherlands, where I learned to think in real time about markets, data, and
-    uncertainty. That experience pulled me toward deeper questions — which led me to a PhD at the
-    University of Hawaii, where I studied how temperature drives electricity demand and how
-    satellite weather data can predict crop yields around the world. My dissertation won the
-    TK Jayaraman & Family Prize for Best PhD Dissertation.
-  p3: >-
-    Today I split my time between public policy and entrepreneurship. As a Senior Economist at the
-    Hawaii Department of Taxation, I evaluate the fiscal impact of clean energy tax credits —
-    work that directly shapes legislation. On the research side, I co-founded AE4cast to bring
-    grid-level crop yield forecasting to agricultural markets. I also teach econometrics,
-    environmental economics, and statistics at UH Manoa, where I get to share my enthusiasm for
-    data-driven thinking with the next generation of economists.
-  p4: >-
-    Born in China, trained in the Netherlands and the US, and now based in Honolulu — I've built my career
-    across cultures and continents, and I bring that global perspective to everything I do.
+    What makes my approach distinct is that my research questions come from industry and policy:
+    years in commodity trading at Glencore and energy risk at Shell showed me where markets need
+    better solutions, and my current work as a Senior Economist at the Hawaii Department of
+    Taxation — estimating revenue impacts across energy, housing, and agricultural tax policy —
+    continues to surface questions that deserve deeper, more systematic answers. I co-founded
+    AE4cast to bring crop yield forecasting research to agricultural markets, and at UH Manoa
+    I teach econometrics and environmental economics, where I show students how to apply economic
+    theory to practical, real-world problems. When I'm not working, I'm usually on a trail,
+    underwater on a reef, or finding good street food in a new city.
 
 publications:
   - status: published

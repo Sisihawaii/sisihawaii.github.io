@@ -45,7 +45,7 @@
     <h2 class="text-3xl font-serif font-bold text-gray-900 mb-8">{{ T "section_about" }}</h2>
     <div class="prose prose-lg max-w-none text-gray-600 leading-relaxed">
       <p>{{ $d.site.about.p1 }}</p>
-      <p class="mt-4">{{ $d.site.about.p2 }}</p>
+      {{ with $d.site.about.p2 }}<p class="mt-4">{{ . }}</p>{{ end }}
       {{ with $d.site.about.p3 }}<p class="mt-4">{{ . }}</p>{{ end }}
       {{ with $d.site.about.p4 }}<p class="mt-4">{{ . }}</p>{{ end }}
     </div>
