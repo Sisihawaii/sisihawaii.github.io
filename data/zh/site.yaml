@@ -24,7 +24,7 @@ publications:
       将每日农作物产量预测与期货价格相关联以估算玉米需求，初步结果表明需求弹性低于以往研究。
       构建预测模型和数据管道，将基于气象的产量预测与大宗商品市场结果相连接。
   - status: working
-    title: '"Process-Based versus Statistical Crop Models: Divergent Climate Change Projections for U.S. Corn and Soybean Yields"'
+    title: '"Process-Based Crop Models versus Statistical Models: Divergent Climate Change Projections for U.S. Corn and Soybean Yields"'
     authors: "Zhang, S."
     venue: "工作论文, 2026"
     description: >-

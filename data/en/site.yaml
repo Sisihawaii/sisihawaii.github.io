@@ -32,7 +32,7 @@ publications:
       results suggesting more inelastic demand than previous studies. Constructs forecasting models
       and data pipelines connecting weather-based yield predictions to commodity market outcomes.
   - status: working
-    title: '"Process-Based versus Statistical Crop Models: Divergent Climate Change Projections for U.S. Corn and Soybean Yields"'
+    title: '"Process-Based Crop Models versus Statistical Models: Divergent Climate Change Projections for U.S. Corn and Soybean Yields"'
     authors: "Zhang, S."
     venue: "Working paper, 2026"
     description: >-
