@@ -23,10 +23,10 @@ publications:
     description: >-
       将每日农作物产量预测与期货价格相关联以估算玉米需求，初步结果表明需求弹性低于以往研究。
       构建预测模型和数据管道，将基于气象的产量预测与大宗商品市场结果相连接。
-  - status: working
+  - status: review
     title: '"Process-Based Crop Models versus Statistical Models: Divergent Climate Change Projections for U.S. Corn and Soybean Yields"'
     authors: "Zhang, S."
-    venue: "工作论文, 2026"
+    venue: "审稿中, 2026"
     description: >-
       比较广泛使用的SIMPLE过程模型与灵活的统计模型在气候变化情景下的预测。研究发现统计模型拟合更优，
       两种方法在变暖预测上产生分歧，部分原因是过程模型未能充分捕捉极端高温效应——这意味着仅依赖过程模型的
