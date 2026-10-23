@@ -34,7 +34,7 @@ publications:
   - status: review
     title: '"Process-Based Crop Models versus Statistical Models: Divergent Climate Change Projections for U.S. Corn and Soybean Yields"'
     authors: "Zhang, S."
-    venue: "Under review, 2026"
+    venue: 'Under review, 2026. DOI: <a href="https://doi.org/10.2139/ssrn.7658778" target="_blank">10.2139/ssrn.7658778</a>'
     description: >-
       Compares the widely used SIMPLE process-based crop model with flexible statistical models
       under climate change scenarios. Finds that statistical models fit better and the two approaches

@@ -26,7 +26,7 @@ publications:
   - status: review
     title: '"Process-Based Crop Models versus Statistical Models: Divergent Climate Change Projections for U.S. Corn and Soybean Yields"'
     authors: "Zhang, S."
-    venue: "审稿中, 2026"
+    venue: '审稿中, 2026。DOI: <a href="https://doi.org/10.2139/ssrn.7658778" target="_blank">10.2139/ssrn.7658778</a>'
     description: >-
       比较广泛使用的SIMPLE过程模型与灵活的统计模型在气候变化情景下的预测。研究发现统计模型拟合更优，
       两种方法在变暖预测上产生分歧，部分原因是过程模型未能充分捕捉极端高温效应——这意味着仅依赖过程模型的
