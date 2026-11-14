@@ -32,12 +32,13 @@ publications:
       两种方法在变暖预测上产生分歧，部分原因是过程模型未能充分捕捉极端高温效应——这意味着仅依赖过程模型的
       政策制定者可能低估气候变化对农业的损害。
   - status: working
-    title: '"Comparison of Reanalysis Weather Data for Hourly Electricity Demand Forecast"'
+    title: '"How Reanalysis Temperature Choice Affects Hourly Electricity Demand Models in the United States"'
     authors: "Zhang, S."
     venue: "工作论文, 2026"
     description: >-
-      比较NARR、MERRA2和ERA5-Land再分析气象数据集用于电力需求预测的表现——这一方法选择对下游模型
-      准确性有显著影响。为应用能源和气候研究中的数据集选择提供指导。
+      将ERA5-Land、NARR和MERRA2三种再分析气温数据分别输入同一个逐小时电力需求模型，覆盖美国31个电力平衡区。
+      ERA5-Land在所有区域的预测效果最好，样本外误差比NARR低3%至18%，且这一优势在2019–2020年数据中依然成立。
+      在升温2°C情景下，基于ERA5-Land和NARR的模型对东部电网峰值需求的预测相差4吉瓦，约合每年4亿美元的发电容量成本。
 
 dissertation:
   title: "Quantifying Weather and Climate Impacts on Electricity Demand and Agricultural Productivity in the US: Implications for Climate Change Adaptation"

@@ -42,13 +42,15 @@ publications:
       capture extreme heat effects — implying that policymakers relying on process-based models
       alone may underestimate climate damages to agriculture.
   - status: working
-    title: '"Comparison of Reanalysis Weather Data for Hourly Electricity Demand Forecast"'
+    title: '"How Reanalysis Temperature Choice Affects Hourly Electricity Demand Models in the United States"'
     authors: "Zhang, S."
     venue: "Working paper, 2026"
     description: >-
-      Compares NARR, MERRA2, and ERA5-Land reanalysis weather datasets for electricity demand
-      forecasting — a methodological choice that significantly affects downstream model accuracy.
-      Provides guidance on dataset selection for applied energy and climate research.
+      Feeds ERA5-Land, NARR, and MERRA2 temperature into the same hourly demand model for 31 U.S.
+      balancing authorities. ERA5-Land predicts demand best in every region, with out-of-sample error
+      3 to 18 percent below NARR's, and its advantage carries over to 2019–2020 data. Under 2°C of
+      warming, the ERA5-Land- and NARR-based models differ by 4 GW in projected Eastern Interconnect
+      peak demand, about $0.4 billion a year in generating capacity.
 
 dissertation:
   title: "Quantifying Weather and Climate Impacts on Electricity Demand and Agricultural Productivity in the US: Implications for Climate Change Adaptation"
