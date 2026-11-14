@@ -40,11 +40,12 @@ publications:
       准确性有显著影响。为应用能源和气候研究中的数据集选择提供指导。
 
 dissertation:
+  title: "Quantifying Weather and Climate Impacts on Electricity Demand and Agricultural Productivity in the US: Implications for Climate Change Adaptation"
   prize: "TK Jayaraman家族最佳博士论文奖"
   chapters:
     - "Using Temperature Sensitivity to Estimate Shiftable Electricity Demand"
-    - "Comparing Process-Based SIMPLE Model and Statistical Model with Climate Implications for U.S. Corn Belt States"
-    - "Comparison of Reanalysis Weather Datasets (NARR, MERRA2, ERA5-Land) for Hourly Electricity Demand Forecasting in the Continental U.S."
+    - "Comparing Process-Based SIMPLE Model and Statistical Model with Climate Implication for US Corn Belt States"
+    - "Comparison of Reanalysis Weather Data NARR, MERRA2 and ERA5-Land for Hourly Electricity Demand Forecast in the Continental US"
 
 conferences:
   - title: "摩根大通大宗商品研究中心研讨会"

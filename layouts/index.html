@@ -81,6 +81,7 @@
     <!-- Dissertation -->
     <h3 class="text-xl font-serif font-semibold text-gray-900 mt-12 mb-4">{{ T "heading_dissertation" }}</h3>
     <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
+      {{ with $d.site.dissertation.title }}<p class="font-serif italic text-gray-900 mb-2">{{ . }}</p>{{ end }}
       <p class="text-sm text-primary-600 font-medium mb-3">{{ $d.site.dissertation.prize }}</p>
       <ol class="list-decimal list-inside space-y-2 text-gray-600 text-sm">
         {{ range $d.site.dissertation.chapters }}
